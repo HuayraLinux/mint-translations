@@ -1,3 +1,10 @@
+mint-translations (2021.01.02~huayra5+1) torbellino; urgency=medium
+
+  * Rebuild for Huayra 5
+  * Just install mintstick translations.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 11 Feb 2021 16:05:53 -0300
+
 mint-translations (2021.01.02) ulyssa; urgency=medium
 
   * Update translations

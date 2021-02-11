@@ -1,7 +1,7 @@
 Source: mint-translations
 Section: admin
 Priority: optional
-Maintainer: Clement Lefebvre <root@linuxmint.com>
+Maintainer: Matias De lellis <mati86dl@gmail.com>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
